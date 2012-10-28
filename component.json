@@ -4,5 +4,9 @@
   "version": "0.0.4",
   "main": "./lib/zest.js",
   "ender": "index.js",
-  "scripts": [ "index.js", "lib/zest.js" ]
+  "scripts": [
+    "index.js",
+    "lib/zest.js"
+  ],
+  "license": "MIT"
 }
