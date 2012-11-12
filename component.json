@@ -2,7 +2,7 @@
   "name": "zest",
   "description": "Fast, lightweight, extensible css selector engine.",
   "version": "0.0.4",
-  "main": "./lib/zest.js",
+  "main": "lib/zest.js",
   "ender": "index.js",
   "scripts": [
     "index.js",
